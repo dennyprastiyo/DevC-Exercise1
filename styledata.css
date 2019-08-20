@@ -1,0 +1,39 @@
+
+
+.bg-head{
+    height: 500px;
+    background-color: #ff4701;
+}
+
+.bg-head2{
+    height: 500px;
+    background-color: #1c1c1c;
+}
+
+.txt-nama{
+    margin-top: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+    color: white;
+}
+.txt-jsd{
+    margin-top: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    color: white;
+}
+
+.txt-resume{
+    padding-top: 20px;
+    padding-left: 40px;     
+    font-family: 'Roboto', sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+    color: white;
+    z-index: 10;
+}
+
+
+
